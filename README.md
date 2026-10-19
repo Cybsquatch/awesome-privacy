@@ -1565,6 +1565,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+- [FileOmniTool](https://www.fileomnitool.com/) — A zero-upload file manipulation toolkit (PDF editor, image converter, metadata stripper, audio extractor) that processes data purely in local memory using WebAssembly.
 
 [Back to top 🔝](#contents)
 
